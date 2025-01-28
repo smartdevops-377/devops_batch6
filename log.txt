@@ -1,1 +1,1 @@
-we are learning git log concepts
+we are learning git log concepts and the fetch concepts too
